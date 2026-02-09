@@ -9,7 +9,7 @@ const navLinks = [
   { href: '#about', label: 'Sobre Mí' },
   { href: '#projects', label: 'Proyectos' },
   { href: '#tech-stack', label: 'Tech Stack' },
-  /* { href: '#contact', label: 'Contacto' } */,
+  // { href: '#contact', label: 'Contacto' }
 ]
 
 export function Navbar() {
